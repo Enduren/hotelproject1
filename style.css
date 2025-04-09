@@ -6,7 +6,7 @@ body {
     color: #333;
 }
 /* header */
-.fixed-header {
+.header {
     background-color: #333;
     color: white;
     padding: 1em 0;
